@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from flask import Flask, request
 import json
 from slack import send_notification
